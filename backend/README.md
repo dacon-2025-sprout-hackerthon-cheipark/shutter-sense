@@ -1,11 +1,14 @@
 # ShutterSense Backend
 
+한국어 문서: README.ko.md
+
 FastAPI backend for AI camera application.
 
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+uv sync
+
 ```
 
 ## Running the Server
